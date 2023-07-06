@@ -1,0 +1,14 @@
+.body{
+    background-image: url(https://thumbs.dreamstime.com/b/llamas-del-fuego-17780114.jpg);
+}
+
+.p-0{
+    text-align: justify;
+        background-color: rgba(88, 15, 0, 0.5);
+
+}
+
+img:hover{
+    transform: scale(1.1);
+    cursor: pointer;
+}
